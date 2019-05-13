@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Bison and Flex
+*.yy.c
+*.tab.h
+*.tab.c
+*.output
+
+# MacOS
+.DS_Store
